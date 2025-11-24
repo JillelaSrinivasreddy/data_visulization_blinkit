@@ -17,6 +17,8 @@ A comprehensive admin dashboard for managing and monitoring Blinkit operations. 
 
 ## 🖼️ Screenshots
 
->![Screenshot (233)](https://github.com/user-attachments/assets/ee994adc-e1d2-420f-a6a2-4366e76575df)
+
+><img width="1366" height="768" alt="Screenshot (22)" src="https://github.com/user-attachments/assets/f1308f64-eeed-4b23-8965-20d777dc9163" />
+
 
 
